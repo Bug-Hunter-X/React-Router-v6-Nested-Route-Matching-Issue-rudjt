@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router v6 involving nested routes and dynamic segments.  The problem occurs when a child route's path doesn't fully match the URL due to a mismatch in the parent route's pattern. The solution involves adjusting the route paths to ensure a complete match.
